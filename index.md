@@ -10,6 +10,6 @@ Welcome to my home on the web.
 # Talks
 
 Slides for my DroidKaigi 2019 talk titled *What does adb lolcat do?* are
-[available here](/slides-html/index.html).
+[available here](/adb-lolcat-deep-dive/slides-html/index.html).
 
 Please contact me via [Twitter](https://twitter.com/ravisu) if you have any questions!
