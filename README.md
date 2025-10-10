@@ -1,6 +1,7 @@
 # What does `adb lolcat` do?
 
-These are the slides for the [talk at DroidKaigi 2019](https://youtu.be/WZhFPHj-twU?si=N-MNqfMzNRuIvhYg) on the internals of `adb` (discussed via the `adb lolcat` command).
+These are the slides for [@scorpiodawg](https://github.com/scorpiodawg)'s [talk at DroidKaigi 2019](https://youtu.be/WZhFPHj-twU?si=N-MNqfMzNRuIvhYg) on the internals of `adb` 
+(discussed via the `adb lolcat` command).
 
 This talk is a deep dive into the Android Debug Bridge (ADB), breaking down its fundamental components – the client, server, and daemon.
 Learn how these pieces interact through transports and a surprisingly simple protocol, and discover the inner workings of commands 
